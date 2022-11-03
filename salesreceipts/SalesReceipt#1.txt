@@ -1,0 +1,18 @@
+~~~~ SalesReceipt ~~~~
+ID:1
+Cashier:Ivan Ivanov
+Date and time:'07/06/2021 10:58:05'
+List of products: [
+Name:'Milk', ID:11, Amount:4, Final price:1.8, Expiration Date: 2021-11-01
+, 
+Name:'Cheese', ID:12, Amount:3, Final price:1.8, Expiration Date: 2021-11-03
+, 
+Name:'Apples', ID:13, Amount:5, Final price:1.1, Expiration Date: 2022-01-01
+, 
+Name:'Napkins', ID:14, Amount:4, Final price:1.08, Expiration Date: 2025-11-04
+, 
+Name:'Pears', ID:15, Amount:5, Final price:1.2, Expiration Date: 2021-12-14
+]
+Price: 28.44
+
+Number of sales receipts: 1
